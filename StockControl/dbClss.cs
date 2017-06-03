@@ -18,7 +18,7 @@ namespace StockControl
     {
 
         public string ssss = "1";
-        public string version = "1";
+        public string version = "12";
         public static Telerik.WinControls.UI.RadRibbonForm CreateForm(string form)
         {
             try
